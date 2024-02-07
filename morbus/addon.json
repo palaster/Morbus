@@ -1,11 +1,8 @@
 {
-    "default_changelog": "http://remscar.com/morbusgame",
-    "description": "Description",
+    "title": "Morbus Gamemode",
+    "type": "gamemode",
     "tags": [
         "roleplay",
         "realism"
-    ],
-    "title": "Morbus Gamemode",
-    "type": "gamemode",
-    "workshopid": 139263490
+    ]
 }
