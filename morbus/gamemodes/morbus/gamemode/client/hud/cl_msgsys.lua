@@ -5,7 +5,7 @@
 MORBUS MESSAGE SYSTEM
 --------------------------------------------*/
 
-local tex = surface.GetTextureID("vgui/morbus/HPBar")
+local tex = surface.GetTextureID("vgui/morbus/hp_bar")
 
 surface.CreateFont("MSGFont", {
   font = "Verdana",

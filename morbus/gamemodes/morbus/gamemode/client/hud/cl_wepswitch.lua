@@ -6,7 +6,7 @@ WEAPON SWITCH INTERFACE
 // Developed by Remscar
 // and the Morbus dev team
 
-local tex = surface.GetTextureID("vgui/morbus/HPBar")
+local tex = surface.GetTextureID("vgui/morbus/hp_bar")
 
 
 WSWITCH = {}

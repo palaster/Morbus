@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
-	"$baseTexture" "models\weapons\v_models\G21C\Body"
-	"$bumpmap"     "models\weapons\v_models\G21C\Body_normal"
+	"$baseTexture" "models\weapons\v_models\g21c\body"
+	"$bumpmap"     "models\weapons\v_models\g21c\body_normal"
 	"$normalmapalphaenvmapmask" "1"
 
 	"$phong" "1"

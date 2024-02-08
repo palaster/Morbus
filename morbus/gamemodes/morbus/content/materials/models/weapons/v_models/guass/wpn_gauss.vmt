@@ -1,7 +1,7 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "models/Weapons/v_models/Guass/wpn_gauss"
-	"$bumpmap" "models/Weapons/v_models/Guass/wpn_gauss_bump"
+	"$basetexture" "models/Weapons/v_models/guass/wpn_gauss"
+	"$bumpmap" "models/Weapons/v_models/guass/wpn_gauss_bump"
 //	"$envmap" "env_cubemap"
 	"$normalmapalphaenvmapmask" 1
 	"$phong" "1"

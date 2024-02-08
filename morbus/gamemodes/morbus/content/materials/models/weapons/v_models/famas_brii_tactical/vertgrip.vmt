@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
-	"$baseTexture" "models\weapons\v_models\famasBRII_tactical\vertgrip"
-	"$envmapmask" "models\weapons\v_models\famasBRII_tactical\vertgrip_ref"
+	"$baseTexture" "models\weapons\v_models\famas_brii_tactical\vertgrip"
+	"$envmapmask" "models\weapons\v_models\famas_brii_tactical\vertgrip_ref"
       	"$envmap" "env_cubemap"
 	"$envmaptint" "[.6 .6 .6]"
 }

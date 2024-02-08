@@ -2,20 +2,20 @@
 // Developed by Remscar
 // and the Morbus dev team
 surface.CreateFont( "PrAmmoFont", {
-	font 		= "DeadSpaceTitleFont",
+	font 		= "dead_space_title_font",
 	size 		= 24,
 	weight 		= 700,
 	antialias	= true
 })
---surface.CreateFont("DeadSpaceTitleFont", 24, 700, true, false, "PrAmmoFont")
+--surface.CreateFont("dead_space_title_font", 24, 700, true, false, "PrAmmoFont")
 
 surface.CreateFont( "TotalAmmoFont", {
-	font 		= "DeadSpaceTitleFont",
+	font 		= "dead_space_title_font",
 	size 		= 32,
 	weight 		= 700,
 	antialias	= true
 })
---surface.CreateFont("DeadSpaceTitleFont", 32, 700, true, false, "TotalAmmoFont")
+--surface.CreateFont("dead_space_title_font", 32, 700, true, false, "TotalAmmoFont")
 
 local matsettings = {
 	["$basetexture"] = "ds_gunhud/ds_mainscreen",

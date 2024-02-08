@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "vgui/morbus/HPBarCover"
+	"$basetexture" "vgui/morbus/hp_bar_cover"
 	"$vertexcolor" 1 
 	"$vertexalpha" 1 
 	"$nolod" 1

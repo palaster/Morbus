@@ -8,8 +8,8 @@ PLAYER HUD
 local trans = 0
 local maxtrans = 140
 
-local tex = surface.GetTextureID("vgui/morbus/HPBar")
-local tex2 = surface.GetTextureID("vgui/morbus/HPBarCover")
+local tex = surface.GetTextureID("vgui/morbus/hp_bar")
+local tex2 = surface.GetTextureID("vgui/morbus/hp_bar_cover")
 
 
 

@@ -74,59 +74,59 @@ MissionIcon = {
 }
 
 surface.CreateFont( "DSMass", {
-	font 		= "DeadSpaceTitleFont",
+	font 		= "dead_space_title_font",
 	size 		= 64,
 	weight 		= 100,
 	antialias	= true
 })
---surface.CreateFont("DeadSpaceTitleFont", 64, 100, true, false, "DSMass")
+--surface.CreateFont("dead_space_title_font", 64, 100, true, false, "DSMass")
 
 surface.CreateFont( "DSHuge", {
-	font 		= "DeadSpaceTitleFont",
+	font 		= "dead_space_title_font",
 	size 		= 42,
 	weight 		= 100,
 	antialias	= true
 })
---surface.CreateFont("DeadSpaceTitleFont", 42, 100, true, false, "DSHuge")
+--surface.CreateFont("dead_space_title_font", 42, 100, true, false, "DSHuge")
 
 surface.CreateFont( "DSLarge", {
-	font 		= "DeadSpaceTitleFont",
+	font 		= "dead_space_title_font",
 	size 		= 30,
 	weight 		= 100,
 	antialias	= true
 })
---surface.CreateFont("DeadSpaceTitleFont", 30, 100, true, false, "DSLarge")
+--surface.CreateFont("dead_space_title_font", 30, 100, true, false, "DSLarge")
 
 surface.CreateFont( "DSSmall", {
-	font 		= "DeadSpaceTitleFont",
+	font 		= "dead_space_title_font",
 	size 		= 18,
 	weight 		= 100,
 	antialias	= true
 })
 
 surface.CreateFont( "DSTiny2", {
-	font 		= "DeadSpaceTitleFont",
+	font 		= "dead_space_title_font",
 	size 		= 16,
 	weight 		= 100,
 	antialias	= true
 })
---surface.CreateFont("DeadSpaceTitleFont", 18, 100, true, false, "DSSmall")
+--surface.CreateFont("dead_space_title_font", 18, 100, true, false, "DSSmall")
 
 surface.CreateFont( "DSTiny", {
-	font 		= "DeadSpaceTitleFont",
+	font 		= "dead_space_title_font",
 	size 		= 12,
 	weight 		= 100,
 	antialias	= true
 })
---surface.CreateFont("DeadSpaceTitleFont", 12, 100, true, false, "DSTiny")
+--surface.CreateFont("dead_space_title_font", 12, 100, true, false, "DSTiny")
 
 surface.CreateFont( "DSMedium", {
-	font 		= "DeadSpaceTitleFont",
+	font 		= "dead_space_title_font",
 	size 		= 22,
 	weight 		= 100,
 	antialias	= true
 })
---surface.CreateFont("DeadSpaceTitleFont", 22, 100, true, false, "DSMedium")
+--surface.CreateFont("dead_space_title_font", 22, 100, true, false, "DSMedium")
 
 // 1:00 = 60
 // 2:00 = 120

@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
-	"$basetexture"			"models\weapons\v_models\Kim_M9\M92"
-	"$bumpmap"     			"models\weapons\v_models\Kim_M9\M92_NORM"
+	"$basetexture"			"models\weapons\v_models\kim_m9\m92"
+	"$bumpmap"     			"models\weapons\v_models\kim_m9\m92_norm"
 	"$nocull" "1"
 	"$normalmapalphaenvmapmask" "1"
 	"$phong" 		"1"

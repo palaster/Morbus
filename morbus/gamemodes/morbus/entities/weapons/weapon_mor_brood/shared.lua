@@ -19,7 +19,7 @@ SWEP.Weight             = 5
 SWEP.Base 				= "weapon_mor_melee"
 SWEP.DrawWeaponInfoBox=false
 
-SWEP.ViewModel = "models/Zed/weapons/v_Banshee.mdl"
+SWEP.ViewModel = "models/zed/weapons/v_banshee.mdl"
 SWEP.WorldModel = "models/weapons/w_fists.mdl"
 
 SWEP.AllowDrop = false

@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
-	"$basetexture"	"models\weapons\v_models\v_F6MAR\diffuse"
-	"$bumpmap"	"models\weapons\v_models\v_F6MAR\normal"
+	"$basetexture"	"models\weapons\v_models\v_f6mar\diffuse"
+	"$bumpmap"	"models\weapons\v_models\v_f6mar\normal"
         "$selfillum" "1"
 	"$nocull" "1"
 	"$normalmapalphaenvmapmask" "1"
