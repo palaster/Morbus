@@ -3,8 +3,9 @@
 	"base"		"base"
 	"title"		"MORBUS"
 	"maps"		"^mor_"
+	"category"  "pvp"
 	"menusystem"	"1"
-	"workshopid"	"139263490"
+	"workshopid"	"3156714224"
 
 	"settings"
 	{
