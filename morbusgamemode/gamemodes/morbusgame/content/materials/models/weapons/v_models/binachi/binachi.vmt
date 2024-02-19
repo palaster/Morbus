@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
-$baseTexture "models/weapons/v_models/Binachi/Binachi"
-$bumpmap "models/weapons/v_models/Binachi/Binachi_norm"
+$baseTexture "models/weapons/v_models/binachi/binachi"
+$bumpmap "models/weapons/v_models/binachi/binachi_norm"
 "$halflambert" 	"1"
 "$phong" "1"
 "$phongexponent" "10"

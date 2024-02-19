@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
 
-	"$basetexture" "Models/glowstick/glow_lblu"
+	"$basetexture" "models/glowstick/glow_lblu"
 	"$surfaceprop" "glass"
 	"$selfillum" 1
 }

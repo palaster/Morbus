@@ -1,7 +1,7 @@
 "Unlittwotexture"
 {
-	"$baseTexture"	"models/weapons/v_models/Binachi/sight"
-	"$texture2"	"models\weapons\v_models\Binachi\noise"
+	"$baseTexture"	"models/weapons/v_models/binachi/sight"
+	"$texture2"	"models\weapons\v_models\binachi\noise"
 	"$additive" 1
 	"$model" 1
 	"$nocull" 1

@@ -1,12 +1,12 @@
 
 "VertexlitGeneric"
 {
-	"$basetexture" "models/weapons/samzanemesis/T_WP_ShockRifle_Instagib_D"
+	"$basetexture" "models/weapons/samzanemesis/t_wp_shockrifle_instagib_d"
 
-	"$bumpmap" "models/weapons/samzanemesis/T_WP_ShockRifle_N"
+	"$bumpmap" "models/weapons/samzanemesis/t_wp_shockrifle_n"
 
 $selfillum 1
-$selfillummask "models/weapons/samzanemesis/T_WP_ShockRifle_E"
+$selfillummask "models/weapons/samzanemesis/t_wp_shockrifle_e"
 	"$phong" "1"
 	"$phongexponent" "100"
 	"$phongboost" "5"	
@@ -16,4 +16,3 @@ $selfillummask "models/weapons/samzanemesis/T_WP_ShockRifle_E"
 
 }
 
-}
